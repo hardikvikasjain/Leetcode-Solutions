@@ -40,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1517-find-users-with-valid-e-mails](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
