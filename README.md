@@ -49,4 +49,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 <!---LeetCode Topics End-->
