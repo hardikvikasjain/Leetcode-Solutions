@@ -39,6 +39,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
