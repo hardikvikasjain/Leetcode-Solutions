@@ -59,4 +59,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
