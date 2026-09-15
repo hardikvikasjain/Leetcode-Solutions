@@ -9,11 +9,12 @@ public:
 
             if(nums[i] == 1) {
                 count++;
-                maxi = max(maxi, count);
             }
             else {
                 count = 0;
             }
+
+            maxi = max(maxi, count);
         }
 
         return maxi;
