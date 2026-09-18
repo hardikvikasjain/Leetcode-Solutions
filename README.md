@@ -97,4 +97,12 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
