@@ -43,6 +43,7 @@
 | [1517-find-users-with-valid-e-mails](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
