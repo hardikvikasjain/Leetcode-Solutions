@@ -57,6 +57,7 @@
 | [0001-two-sum](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -112,4 +113,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
