@@ -70,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
