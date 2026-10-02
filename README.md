@@ -60,6 +60,7 @@
 | [0035-search-insert-position](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -67,11 +68,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0189-rotate-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
