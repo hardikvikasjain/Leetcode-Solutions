@@ -101,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
