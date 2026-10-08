@@ -65,6 +65,7 @@
 | [0229-majority-element-ii](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +133,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 <!---LeetCode Topics End-->
