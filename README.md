@@ -78,6 +78,7 @@
 | [0013-roman-to-integer](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0319-bulb-switcher](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +142,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
