@@ -65,6 +65,7 @@
 | [0229-majority-element-ii](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@
 | [0168-excel-sheet-column-title](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0319-bulb-switcher](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
