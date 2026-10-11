@@ -64,6 +64,7 @@
 | [0189-rotate-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0724-find-pivot-index](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -143,6 +144,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
