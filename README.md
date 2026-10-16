@@ -82,6 +82,7 @@
 | [0168-excel-sheet-column-title](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0319-bulb-switcher](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
+| [0509-fibonacci-number](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +172,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
