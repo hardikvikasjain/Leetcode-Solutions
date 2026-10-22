@@ -26,6 +26,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0279-perfect-squares](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@
 | [0013-roman-to-integer](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0279-perfect-squares](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0319-bulb-switcher](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -141,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0279-perfect-squares](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -179,4 +182,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/hardikvikasjain/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
